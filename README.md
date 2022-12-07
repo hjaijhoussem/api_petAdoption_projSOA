@@ -9,4 +9,4 @@ crud-app with authentification :
  - delete a pet
  - get a pet information
  - get all pets list
- - signin/ signup / signout / get currentUser : using 'jsonwebtoken', 'cookie-session'and 'express-validator' to validate inputs
+ - signin/ signup / signout / get currentUser : using 'jsonwebtoken', 'cookie-session' and 'express-validator' to validate inputs
