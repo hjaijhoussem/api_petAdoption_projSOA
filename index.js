@@ -27,7 +27,7 @@ app.get('*',(req, res) => {
 
 
 const start = () => {
-    mongoose.connect("mongodb+srv://hjaiejhoussem:20819535h@cluster0.atlc1l6.mongodb.net/pets?retryWrites=true&w=majority")
+    mongoose.connect("mongodb+srv://****************@cluster0.atlc1l6.mongodb.net/pets?retryWrites=true&w=majority")
             .then(() => {
                 app.listen(4000,() => {
                     console.log("listening to 4000 and connected to database");
